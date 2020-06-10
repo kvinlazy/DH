@@ -1,4 +1,4 @@
-name: example-environment
+name: Forecast-environment
 channels:
   - conda-forge
 dependencies:
